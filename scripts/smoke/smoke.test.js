@@ -6,8 +6,8 @@
  ** - Duración: 30 segundos.
  * - Validar código 200 en
  **  - /,
- * todo:  - /contacts.php,
- * todo:  - /login.
+ * todo: - /contacts.php,
+ * todo: - /login.
  * todo: - Asegurar que el login funciona y redirige a /my_messages.php.
  */
 
