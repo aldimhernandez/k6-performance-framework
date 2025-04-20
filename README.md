@@ -7,14 +7,20 @@ Este repositorio contiene distintos tipos de pruebas de rendimiento realizadas c
 ```
 .
 ├── scripts
-│   ├── smoke
 │   ├── average-load
-│   ├── stress
+│   ├── breakpoint
+│   ├── smoke
 │   ├── soak
-│   └── breakpoint
+│   ├── stress
+|   └── k6-sample-script.js
+|
 ├── results
 ├── thresholds
 ├── dashboards
+├── .gitignore
+├── package-lock.json
+├── package.json
+├── requirements.md
 └── README.md
 ```
 
