@@ -27,8 +27,8 @@ Condiciones:
 
 - 1 usuario virtual.
 - Duración: 30 segundos.
-- Validar código 200 en /, /contacts.php, /login.
-- Asegurar que el login funciona y redirige a /my_messages.php.
+- Validar código 200 en /, /contacts.php, /my_messages.php.
+- Asegurar que el login funciona y devuelve un token.
 
 2. ⚖️ Average Load Test
 
