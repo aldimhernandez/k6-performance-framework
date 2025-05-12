@@ -1,6 +1,6 @@
 # k6 Performance Testing Framework
 
-Este repositorio contiene distintos tipos de pruebas de rendimiento realizadas con [k6](https://k6.io/), orientadas a validar la estabilidad y escalabilidad de la API pública https://test.k6.io/.
+Este repositorio lo inicie para experimentar con distintos tipos de pruebas de rendimiento realizadas con [k6](https://k6.io/), orientadas a validar la estabilidad y escalabilidad de la API pública https://test.k6.io/.
 
 ## 📂 Estructura del Proyecto
 
@@ -26,11 +26,11 @@ Este repositorio contiene distintos tipos de pruebas de rendimiento realizadas c
 
 ## 🧪 Tipos de pruebas
 
-- `Smoke`: Verifica disponibilidad básica.
-- `Average Load`: Simula carga promedio.
-- `Stress`: Empuja la API hasta que empiece a fallar.
-- `Soak`: Evalúa estabilidad a largo plazo.
-- `Breakpoint`: Detecta el punto de colapso del sistema.
+- `Smoke`: Verifica disponibilidad básica. Done.
+- `Average Load`: Simula carga promedio. To do.
+- `Stress`: Empuja la API hasta que empiece a fallar. To do.
+- `Soak`: Evalúa estabilidad a largo plazo. To do.
+- `Breakpoint`: Detecta el punto de colapso del sistema. To do.
 
 ## 🚀 Cómo ejecutar un test
 
